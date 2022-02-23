@@ -3,7 +3,7 @@
 # My name is Vitalii Huzii.
 Happy to meet you! Make your self at home)
 
-Languages: Ukrainian, English, Spanish, Russian <b>
+Languages: Ukrainian, English, Spanish, Russian <br>
 Programming languages: Java, JavaScript, Python, C++
 
 ---
